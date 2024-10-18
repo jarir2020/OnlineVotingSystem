@@ -1,0 +1,23 @@
+.text-white{
+	color:#ffff;
+}
+
+.bg-white{
+	background-color:#ffff;
+}
+
+.text-center{
+	
+		padding: 70px 0;
+		border: 3px solid green;
+		text-align: center;
+
+}
+
+.top-right {
+	position: absolute;
+	top: 8px;
+	right: 16px;
+	font-size: 18px;
+}
+
